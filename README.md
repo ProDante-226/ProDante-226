@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" align="right" width="250"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" align="right" width="250"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hosny%20Khaled-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosny-khaled-8523bb450/)
 [![Behance Badge](https://img.shields.io/badge/-dantepro-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/dantepro)
